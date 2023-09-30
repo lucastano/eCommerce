@@ -10,7 +10,7 @@ namespace eCommerce.LogicaNegocio.IRepositorios
     {
         //CRUD
         void create(T entidad);
-        T? get();
+        T? get(int id);
         void update(T entidad);
         void delete(T entidad);
 
