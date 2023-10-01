@@ -47,5 +47,9 @@ namespace eCommerce.AccesoDatos.Repositorios
             _context.SaveChanges();
 
         }
+        public IEnumerable<Producto> getAll() 
+        {
+            return _context.Productos;
+        }
     }
 }
