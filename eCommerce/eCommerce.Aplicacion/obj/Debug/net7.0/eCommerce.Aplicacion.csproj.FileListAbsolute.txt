@@ -1,0 +1,15 @@
+C:\Users\Lucas\Desktop\proyecto eCommerce\eCommerce\eCommerce\eCommerce.Aplicacion\bin\Debug\net7.0\eCommerce.Aplicacion.deps.json
+C:\Users\Lucas\Desktop\proyecto eCommerce\eCommerce\eCommerce\eCommerce.Aplicacion\bin\Debug\net7.0\eCommerce.Aplicacion.dll
+C:\Users\Lucas\Desktop\proyecto eCommerce\eCommerce\eCommerce\eCommerce.Aplicacion\bin\Debug\net7.0\eCommerce.Aplicacion.pdb
+C:\Users\Lucas\Desktop\proyecto eCommerce\eCommerce\eCommerce\eCommerce.Aplicacion\bin\Debug\net7.0\eCommerce.LogicaNegocio.dll
+C:\Users\Lucas\Desktop\proyecto eCommerce\eCommerce\eCommerce\eCommerce.Aplicacion\bin\Debug\net7.0\eCommerce.LogicaNegocio.pdb
+C:\Users\Lucas\Desktop\proyecto eCommerce\eCommerce\eCommerce\eCommerce.Aplicacion\obj\Debug\net7.0\eCommerce.Aplicacion.csproj.AssemblyReference.cache
+C:\Users\Lucas\Desktop\proyecto eCommerce\eCommerce\eCommerce\eCommerce.Aplicacion\obj\Debug\net7.0\eCommerce.Aplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Desktop\proyecto eCommerce\eCommerce\eCommerce\eCommerce.Aplicacion\obj\Debug\net7.0\eCommerce.Aplicacion.AssemblyInfoInputs.cache
+C:\Users\Lucas\Desktop\proyecto eCommerce\eCommerce\eCommerce\eCommerce.Aplicacion\obj\Debug\net7.0\eCommerce.Aplicacion.AssemblyInfo.cs
+C:\Users\Lucas\Desktop\proyecto eCommerce\eCommerce\eCommerce\eCommerce.Aplicacion\obj\Debug\net7.0\eCommerce.Aplicacion.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\proyecto eCommerce\eCommerce\eCommerce\eCommerce.Aplicacion\obj\Debug\net7.0\eCommerce.Aplicacion.csproj.CopyComplete
+C:\Users\Lucas\Desktop\proyecto eCommerce\eCommerce\eCommerce\eCommerce.Aplicacion\obj\Debug\net7.0\eCommerce.Aplicacion.dll
+C:\Users\Lucas\Desktop\proyecto eCommerce\eCommerce\eCommerce\eCommerce.Aplicacion\obj\Debug\net7.0\refint\eCommerce.Aplicacion.dll
+C:\Users\Lucas\Desktop\proyecto eCommerce\eCommerce\eCommerce\eCommerce.Aplicacion\obj\Debug\net7.0\eCommerce.Aplicacion.pdb
+C:\Users\Lucas\Desktop\proyecto eCommerce\eCommerce\eCommerce\eCommerce.Aplicacion\obj\Debug\net7.0\ref\eCommerce.Aplicacion.dll

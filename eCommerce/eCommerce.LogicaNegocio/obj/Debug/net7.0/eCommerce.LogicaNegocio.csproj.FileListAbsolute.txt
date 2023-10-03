@@ -1,0 +1,11 @@
+C:\Users\Lucas\Desktop\proyecto eCommerce\eCommerce\eCommerce\eCommerce.LogicaNegocio\bin\Debug\net7.0\eCommerce.LogicaNegocio.deps.json
+C:\Users\Lucas\Desktop\proyecto eCommerce\eCommerce\eCommerce\eCommerce.LogicaNegocio\bin\Debug\net7.0\eCommerce.LogicaNegocio.dll
+C:\Users\Lucas\Desktop\proyecto eCommerce\eCommerce\eCommerce\eCommerce.LogicaNegocio\bin\Debug\net7.0\eCommerce.LogicaNegocio.pdb
+C:\Users\Lucas\Desktop\proyecto eCommerce\eCommerce\eCommerce\eCommerce.LogicaNegocio\obj\Debug\net7.0\eCommerce.LogicaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Desktop\proyecto eCommerce\eCommerce\eCommerce\eCommerce.LogicaNegocio\obj\Debug\net7.0\eCommerce.LogicaNegocio.AssemblyInfoInputs.cache
+C:\Users\Lucas\Desktop\proyecto eCommerce\eCommerce\eCommerce\eCommerce.LogicaNegocio\obj\Debug\net7.0\eCommerce.LogicaNegocio.AssemblyInfo.cs
+C:\Users\Lucas\Desktop\proyecto eCommerce\eCommerce\eCommerce\eCommerce.LogicaNegocio\obj\Debug\net7.0\eCommerce.LogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\proyecto eCommerce\eCommerce\eCommerce\eCommerce.LogicaNegocio\obj\Debug\net7.0\eCommerce.LogicaNegocio.dll
+C:\Users\Lucas\Desktop\proyecto eCommerce\eCommerce\eCommerce\eCommerce.LogicaNegocio\obj\Debug\net7.0\refint\eCommerce.LogicaNegocio.dll
+C:\Users\Lucas\Desktop\proyecto eCommerce\eCommerce\eCommerce\eCommerce.LogicaNegocio\obj\Debug\net7.0\eCommerce.LogicaNegocio.pdb
+C:\Users\Lucas\Desktop\proyecto eCommerce\eCommerce\eCommerce\eCommerce.LogicaNegocio\obj\Debug\net7.0\ref\eCommerce.LogicaNegocio.dll

@@ -1,5 +1,6 @@
 ﻿using eCommerce.LogicaNegocio.Entidades;
 using eCommerce.LogicaNegocio.IRepositorios;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -49,7 +50,7 @@ namespace eCommerce.AccesoDatos.Repositorios
         }
         public IEnumerable<Producto> getAll() 
         {
-            return _context.Productos;
+            return _context.Productos.Include(p=>p.Categoria);
         }
     }
 }

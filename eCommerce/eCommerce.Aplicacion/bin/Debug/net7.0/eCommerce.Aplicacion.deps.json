@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "eCommerce.Aplicacion/1.0.0": {
+        "dependencies": {
+          "eCommerce.LogicaNegocio": "1.0.0"
+        },
+        "runtime": {
+          "eCommerce.Aplicacion.dll": {}
+        }
+      },
+      "eCommerce.LogicaNegocio/1.0.0": {
+        "runtime": {
+          "eCommerce.LogicaNegocio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "eCommerce.Aplicacion/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "eCommerce.LogicaNegocio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

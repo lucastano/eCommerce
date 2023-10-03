@@ -1,0 +1,17 @@
+C:\Users\Lucas\Desktop\proyecto eCommerce\eCommerce\eCommerce\eCommerce.AccesoDatos\bin\Debug\net7.0\eCommerce.AccesoDatos.deps.json
+C:\Users\Lucas\Desktop\proyecto eCommerce\eCommerce\eCommerce\eCommerce.AccesoDatos\bin\Debug\net7.0\eCommerce.AccesoDatos.runtimeconfig.json
+C:\Users\Lucas\Desktop\proyecto eCommerce\eCommerce\eCommerce\eCommerce.AccesoDatos\bin\Debug\net7.0\eCommerce.AccesoDatos.dll
+C:\Users\Lucas\Desktop\proyecto eCommerce\eCommerce\eCommerce\eCommerce.AccesoDatos\bin\Debug\net7.0\eCommerce.AccesoDatos.pdb
+C:\Users\Lucas\Desktop\proyecto eCommerce\eCommerce\eCommerce\eCommerce.AccesoDatos\bin\Debug\net7.0\eCommerce.LogicaNegocio.dll
+C:\Users\Lucas\Desktop\proyecto eCommerce\eCommerce\eCommerce\eCommerce.AccesoDatos\bin\Debug\net7.0\eCommerce.LogicaNegocio.pdb
+C:\Users\Lucas\Desktop\proyecto eCommerce\eCommerce\eCommerce\eCommerce.AccesoDatos\obj\Debug\net7.0\eCommerce.AccesoDatos.csproj.AssemblyReference.cache
+C:\Users\Lucas\Desktop\proyecto eCommerce\eCommerce\eCommerce\eCommerce.AccesoDatos\obj\Debug\net7.0\eCommerce.AccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Desktop\proyecto eCommerce\eCommerce\eCommerce\eCommerce.AccesoDatos\obj\Debug\net7.0\eCommerce.AccesoDatos.AssemblyInfoInputs.cache
+C:\Users\Lucas\Desktop\proyecto eCommerce\eCommerce\eCommerce\eCommerce.AccesoDatos\obj\Debug\net7.0\eCommerce.AccesoDatos.AssemblyInfo.cs
+C:\Users\Lucas\Desktop\proyecto eCommerce\eCommerce\eCommerce\eCommerce.AccesoDatos\obj\Debug\net7.0\eCommerce.AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\proyecto eCommerce\eCommerce\eCommerce\eCommerce.AccesoDatos\obj\Debug\net7.0\eCommerce.AccesoDatos.csproj.CopyComplete
+C:\Users\Lucas\Desktop\proyecto eCommerce\eCommerce\eCommerce\eCommerce.AccesoDatos\obj\Debug\net7.0\eCommerce.AccesoDatos.dll
+C:\Users\Lucas\Desktop\proyecto eCommerce\eCommerce\eCommerce\eCommerce.AccesoDatos\obj\Debug\net7.0\refint\eCommerce.AccesoDatos.dll
+C:\Users\Lucas\Desktop\proyecto eCommerce\eCommerce\eCommerce\eCommerce.AccesoDatos\obj\Debug\net7.0\eCommerce.AccesoDatos.pdb
+C:\Users\Lucas\Desktop\proyecto eCommerce\eCommerce\eCommerce\eCommerce.AccesoDatos\obj\Debug\net7.0\eCommerce.AccesoDatos.genruntimeconfig.cache
+C:\Users\Lucas\Desktop\proyecto eCommerce\eCommerce\eCommerce\eCommerce.AccesoDatos\obj\Debug\net7.0\ref\eCommerce.AccesoDatos.dll
